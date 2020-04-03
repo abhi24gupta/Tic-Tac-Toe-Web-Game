@@ -1,0 +1,46 @@
+body{
+    background-color: #232322;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1{
+    color:white;
+    text-align: center;
+    background-color:rgb(85, 108, 177);
+    margin: 0;
+    height:100px;
+    width:100%;
+    padding: 25px 0;
+}
+.container{
+    margin: 40px auto;
+	max-width: 600px;
+}
+
+.place{
+    color:white;
+    width:30%;
+    float: left;
+    border:peru 2px solid;
+    height:200px;
+    margin:1.66%;
+    text-align: center;
+    font-size: 8rem;
+    padding: ;
+}
+
+.message{
+    background-color: green;
+    height:100%;
+    padding: 7px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+
+
+}
+img{
+    width:10%;
+    height:100%;
+}
